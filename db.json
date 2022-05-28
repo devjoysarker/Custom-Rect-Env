@@ -1,0 +1,25 @@
+{
+  "products" : [
+      {
+          "id"          : 1,
+          "name"        : "Alo",
+          "price"       : 1200,
+          "sale_price"  : 500,
+          "photo"       : "https://media.istockphoto.com/photos/heap-of-raw-potato-picture-id1005339436?k=20&m=1005339436&s=612x612&w=0&h=FDkAw2b69RnUAyV3LWs6UbwEZdlMgwbde4eUx52pPno="
+      },
+      {
+          "id"          : 2,
+          "name"        : "Lau",
+          "price"       : 200,
+          "sale_price"  : 300,
+          "photo"       : "https://lifestyle-landscapes.com/wp-content/uploads/2012/04/Bottle-Gourd-300x192-1.jpg"
+      },
+      {
+          "id"          : 3,
+          "name"        : "Potol",
+          "price"       : 400,
+          "sale_price"  : 100,
+          "photo"       : "https://sobjibazaar.com/images/thumbs/0002197_pointed-gourd-potol-500-gm_510.png"
+      }
+  ]
+}
